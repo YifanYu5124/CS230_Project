@@ -7,6 +7,6 @@ The code for our AlexNet model is based on the "convertedAlexNet.py" (obtained b
 5. train.py
 
 Acknowledgments:
-Saumitro Dasgupta, (2016), GitHub repository, https://github.com/ethereon/caffe-tensorflow
-Bolei Zhou and MIT CSAIL Computer Vision, (2017), GitHub repository, https://github.com/CSAILVision/places365
-cs230-code-examples, (2018), GitHub repository, https://github.com/cs230-stanford/cs230-code-examples
+Saumitro Dasgupta, (2016), GitHub repository, https://github.com/ethereon/caffe-tensorflow        
+Bolei Zhou and MIT CSAIL Computer Vision, (2017), GitHub repository, https://github.com/CSAILVision/places365           
+cs230-code-examples, (2018), GitHub repository, https://github.com/cs230-stanford/cs230-code-examples       
